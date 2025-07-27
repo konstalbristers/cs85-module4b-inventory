@@ -45,3 +45,11 @@ try {
 </body>
 </html>
 
+<?php
+/*
+Reflection:
+- I picked items I use often.
+- This could grow into a larger inventory system.
+- PDO helps protect against SQL injection.
+*/
+?>
